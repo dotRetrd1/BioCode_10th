@@ -1,6 +1,9 @@
 Hello, 
 if you dont like english then I probably wrote an hebrew manual in the final docs.
 
+To run the program you must first download it fully and then use the python compiler via a coding 
+program such as Visual studio code to run it.
+
 Before you run the program if you wish there are 
 some paramaters that you are able to control.
 check ./game/config.py and edit the params in there.
